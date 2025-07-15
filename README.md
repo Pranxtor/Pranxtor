@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alexandre Kadi, an engineering student in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
+### Hi there 👋 I'm Alexandre, an engineering student in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
 ### Web/Server
 
